@@ -1,0 +1,1386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Indumathi N - Senior QA Engineer with 8+ years of experience in Quality Assurance & Functional Testing">
+    <title>Indumathi N | Senior QA Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="[fonts.googleapis.com](https://fonts.googleapis.com)">
+    <link rel="preconnect" href="[fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin>
+    <link href="[fonts.googleapis.com](https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap)" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#home" class="nav-logo">IN</a>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#experience" class="nav-link">Experience</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#awards" class="nav-link">Awards</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <p class="hero-greeting">Hello, I'm</p>
+            <h1 class="hero-name">Indumathi N</h1>
+            <h2 class="hero-title">Senior QA Engineer</h2>
+            <p class="hero-description">
+                8+ years of experience in Quality Assurance & Functional Testing across 
+                Pharma, Banking, E-commerce, and Semiconductor domains.
+            </p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn btn-primary">Get In Touch</a>
+                <a href="#projects" class="btn btn-secondary">View Projects</a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">8+</span>
+                    <span class="stat-label">Years Experience</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">10+</span>
+                    <span class="stat-label">Projects Delivered</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">5+</span>
+                    <span class="stat-label">Industries</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>
+                        I am a dedicated and result-oriented QA professional with extensive experience 
+                        in manual testing for web-based applications. My expertise spans across multiple 
+                        domains including <strong>Pharma, Banking, E-commerce, BFSI, and Semiconductor</strong> industries.
+                    </p>
+                    <p>
+                        I specialize in functional testing, regression testing, and user acceptance testing, 
+                        with deep knowledge of Agile/Scrum methodologies. I have a proven track record of 
+                        delivering high-quality software through meticulous testing practices and effective 
+                        defect management.
+                    </p>
+                    <p>
+                        Currently working at <strong>Tata Consultancy Services</strong>, I continue to drive 
+                        quality excellence across enterprise applications while mentoring team members and 
+                        contributing to sprint deliverables.
+                    </p>
+                    <div class="about-info">
+                        <div class="info-item">
+                            <span class="info-label">Location:</span>
+                            <span class="info-value">India</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Experience:</span>
+                            <span class="info-value">8+ Years</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Certification:</span>
+                            <span class="info-value">PSM1 Certified</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-image">
+                    <div class="image-placeholder">
+                        <span>IN</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section">
+        <div class="container">
+            <h2 class="section-title">Skills & Expertise</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Testing Types</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Functional Testing</span>
+                        <span class="skill-tag">Regression Testing</span>
+                        <span class="skill-tag">Smoke Testing</span>
+                        <span class="skill-tag">Sanity Testing</span>
+                        <span class="skill-tag">Integration Testing</span>
+                        <span class="skill-tag">System Testing</span>
+                        <span class="skill-tag">UAT</span>
+                        <span class="skill-tag">Compatibility Testing</span>
+                        <span class="skill-tag">Mobile Testing</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Tools & Platforms</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">JIRA</span>
+                        <span class="skill-tag">Bugzilla</span>
+                        <span class="skill-tag">SVN</span>
+                        <span class="skill-tag">GXP Manager</span>
+                        <span class="skill-tag">TRACK</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Methodologies</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Agile/Scrum</span>
+                        <span class="skill-tag">STLC</span>
+                        <span class="skill-tag">SDLC</span>
+                        <span class="skill-tag">Defect Life Cycle</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Browsers & Devices</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Chrome</span>
+                        <span class="skill-tag">Firefox</span>
+                        <span class="skill-tag">Internet Explorer</span>
+                        <span class="skill-tag">Android</span>
+                        <span class="skill-tag">iOS</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Documentation</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Test Summary Reports</span>
+                        <span class="skill-tag">Defect Summary Reports</span>
+                        <span class="skill-tag">RTM</span>
+                        <span class="skill-tag">PQ/OQ Drafting</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Certifications</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag highlight">PSM1 Certified</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="experience section">
+        <div class="container">
+            <h2 class="section-title">Work Experience</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3 class="timeline-title">Engineer</h3>
+                            <span class="timeline-company">Tata Consultancy Services</span>
+                        </div>
+                        <span class="timeline-date">November 2022 - Present</span>
+                        <p class="timeline-description">
+                            Working on enterprise e-commerce and BFSI applications including Croma Retail, 
+                            Aberdeen PLC, and Walgreens Boot Alliance. Responsible for end-to-end functional 
+                            testing, sprint deliverables, and quality assurance across multiple platforms.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3 class="timeline-title">Software Quality Assurance</h3>
+                            <span class="timeline-company">Targetclose Technology India</span>
+                        </div>
+                        <span class="timeline-date">January 2022 - October 2022</span>
+                        <p class="timeline-description">
+                            Led browser certification testing for AARP e-commerce platform across multiple 
+                            browsers and devices including Android and iOS.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3 class="timeline-title">Senior QA Analyst</h3>
+                            <span class="timeline-company">Capgemini Technology Services</span>
+                        </div>
+                        <span class="timeline-date">March 2021 - December 2021</span>
+                        <p class="timeline-description">
+                            Worked on QCB project for ANZ Banking, focusing on loan variation letters 
+                            and document generation functionality testing.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3 class="timeline-title">Software Engineer</h3>
+                            <span class="timeline-company">Lam Research Corporation</span>
+                        </div>
+                        <span class="timeline-date">July 2017 - May 2018</span>
+                        <p class="timeline-description">
+                            Conducted functional testing for NEXUS semiconductor processing software 
+                            used in integrated circuit fabrication for clients like Samsung and Toshiba.
+                        </p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3 class="timeline-title">Software Engineer</h3>
+                            <span class="timeline-company">Aris Global Software Pvt. Ltd</span>
+                        </div>
+                        <span class="timeline-date">May 2014 - April 2017</span>
+                        <p class="timeline-description">
+                            Performed UAT and functional testing for pharmaceutical software including 
+                            adverse event reporting systems and clinical trials management solutions 
+                            for clients like Abbott, POI, and Orion.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects section">
+        <div class="container">
+            <h2 class="section-title">Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-icon">🛒</div>
+                    <h3 class="project-title">Croma Retail</h3>
+                    <span class="project-domain">E-commerce</span>
+                    <p class="project-description">
+                        End-to-end testing of India's leading electronics retail platform covering 
+                        product lifecycle, cart, checkout, payments, order confirmation, and invoice generation.
+                    </p>
+                    <div class="project-meta">
+                        <span>Client: Infiniti Retail Limited</span>
+                        <span>Duration: 1.8 Years</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-icon">🏦</div>
+                    <h3 class="project-title">QCB - ANZ Banking</h3>
+                    <span class="project-domain">Banking</span>
+                    <p class="project-description">
+                        Functional testing for loan variation letters, document generation, and 
+                        banking forms for Australia and New Zealand Banking Group Limited.
+                    </p>
+                    <div class="project-meta">
+                        <span>Client: ANZ</span>
+                        <span>Duration: 7 Months</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-icon">🔬</div>
+                    <h3 class="project-title">NEXUS</h3>
+                    <span class="project-domain">Semiconductor</span>
+                    <p class="project-description">
+                        Testing semiconductor processing software for wafer fabrication and 
+                        chemical deposition systems used by Samsung and Toshiba.
+                    </p>
+                    <div class="project-meta">
+                        <span>Client: Samsung, Toshiba</span>
+                        <span>Duration: 1 Year</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-icon">💊</div>
+                    <h3 class="project-title">Vanilla 711</h3>
+                    <span class="project-domain">Pharma</span>
+                    <p class="project-description">
+                        User Acceptance Testing for adverse event reporting system managing 
+                        CIOMS I, MedWatch 3500A reports for pharmaceutical clients.
+                    </p>
+                    <div class="project-meta">
+                        <span>Client: Abbott, POI, Orion</span>
+                        <span>Duration: 1 Year</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-icon">📊</div>
+                    <h3 class="project-title">agClinical</h3>
+                    <span class="project-domain">Pharma</span>
+                    <p class="project-description">
+                        Functional testing for clinical trials management solution (CTMS) enabling 
+                        life science organizations to plan, track, and execute clinical trials.
+                    </p>
+                    <div class="project-meta">
+                        <span>Versions: 3.2.1 & 3.3</span>
+                        <span>Duration: 2 Years</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-icon">🛡️</div>
+                    <h3 class="project-title">Aberdeen PLC</h3>
+                    <span class="project-domain">BFSI</span>
+                    <p class="project-description">
+                        Testing enterprise insurance and investment gateway solution with complete 
+                        end-to-end workflow including various insurance criteria handling.
+                    </p>
+                    <div class="project-meta">
+                        <span>Client: FNZ</span>
+                        <span>Duration: 1.2 Years</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Awards Section -->
+    <section id="awards" class="awards section">
+        <div class="container">
+            <h2 class="section-title">Awards & Recognition</h2>
+            <div class="awards-grid">
+                <div class="award-card">
+                    <div class="award-icon">🏆</div>
+                    <h3 class="award-title">Synergy Team Award</h3>
+                    <p class="award-description">
+                        Recognition for Team Spirit and Outstanding Contribution
+                    </p>
+                </div>
+                <div class="award-card">
+                    <div class="award-icon">⭐</div>
+                    <h3 class="award-title">On The Spot Award</h3>
+                    <p class="award-description">
+                        For efficient Sprint Deliverables, Testing, and achieving sprint goals 
+                        with customer appreciation
+                    </p>
+                </div>
+                <div class="award-card">
+                    <div class="award-icon">🚀</div>
+                    <h3 class="award-title">Special Initiative Award</h3>
+                    <p class="award-description">
+                        Early achiever for GenAI E1 competency during Tech LearnFest Window
+                    </p>
+                </div>
+                <div class="award-card">
+                    <div class="award-icon">🎯</div>
+                    <h3 class="award-title">Xcelerate Warrior Certificate</h3>
+                    <p class="award-description">
+                        Unlocked Xcelerate milestone by completing pre-defined career offerings
+                    </p>
+                </div>
+                <div class="award-card">
+                    <div class="award-icon">🏅</div>
+                    <h3 class="award-title">Xcelerate Victor Certificate</h3>
+                    <p class="award-description">
+                        Showcasing drive and commitment towards achieving aspirations
+                    </p>
+                </div>
+                <div class="award-card">
+                    <div class="award-icon">👏</div>
+                    <h3 class="award-title">Certificate of Appreciation</h3>
+                    <p class="award-description">
+                        Excellence and brilliance in Cart and Checkout team performance
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="education section">
+        <div class="container">
+            <h2 class="section-title">Education</h2>
+            <div class="education-card">
+                <div class="education-icon">🎓</div>
+                <div class="education-content">
+                    <h3 class="education-degree">B.E. in Electronics and Communication</h3>
+                    <p class="education-school">Visvesvaraya Technological University (VTU)</p>
+                    <span class="education-year">2009 - 2013</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="contact-description">
+                I'm currently open to new opportunities. Whether you have a question or just want to say hi, 
+                feel free to reach out!
+            </p>
+            <div class="contact-info">
+                <a href="mailto:indunagarajan.48@gmail.com" class="contact-item">
+                    <span class="contact-icon">📧</span>
+                    <span class="contact-text">indunagarajan.48@gmail.com</span>
+                </a>
+                <a href="tel:+918050721751" class="contact-item">
+                    <span class="contact-icon">📱</span>
+                    <span class="contact-text">+91 8050721751</span>
+                </a>
+            </div>
+            <div class="contact-languages">
+                <h4>Languages</h4>
+                <div class="language-tags">
+                    <span class="language-tag">English</span>
+                    <span class="language-tag">Hindi</span>
+                    <span class="language-tag">Kannada</span>
+                    <span class="language-tag">Tamil</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Indumathi N. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+/* ========== CSS Variables ========== */
+:root {
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --primary-light: #3b82f6;
+    --secondary: #0f172a;
+    --text: #334155;
+    --text-light: #64748b;
+    --text-dark: #1e293b;
+    --background: #ffffff;
+    --background-alt: #f8fafc;
+    --border: #e2e8f0;
+    --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --radius: 12px;
+    --radius-sm: 8px;
+    --transition: all 0.3s ease;
+}
+
+/* ========== Reset & Base ========== */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--background);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* ========== Utilities ========== */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    text-align: center;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 4px;
+    background: var(--primary);
+    border-radius: 2px;
+}
+
+/* ========== Buttons ========== */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 32px;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+    cursor: pointer;
+    border: none;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+}
+
+.btn-secondary:hover {
+    background: var(--primary);
+    color: white;
+}
+
+/* ========== Navigation ========== */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+    transition: var(--transition);
+}
+
+.navbar.scrolled {
+    box-shadow: var(--shadow);
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.nav-logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary);
+    color: white;
+    border-radius: 50%;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 10px 16px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text);
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--primary);
+    background: rgba(37, 99, 235, 0.08);
+}
+
+.nav-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.nav-toggle span {
+    width: 25px;
+    height: 3px;
+    background: var(--text-dark);
+    border-radius: 2px;
+    transition: var(--transition);
+}
+
+/* ========== Hero Section ========== */
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 120px 24px 80px;
+    background: linear-gradient(135deg, var(--background) 0%, var(--background-alt) 100%);
+}
+
+.hero-content {
+    max-width: 800px;
+    text-align: center;
+}
+
+.hero-greeting {
+    font-size: 1.125rem;
+    color: var(--primary);
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.hero-name {
+    font-size: 4rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 8px;
+    line-height: 1.1;
+}
+
+.hero-title {
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: var(--text-light);
+    margin-bottom: 24px;
+}
+
+.hero-description {
+    font-size: 1.125rem;
+    color: var(--text);
+    max-width: 600px;
+    margin: 0 auto 40px;
+    line-height: 1.8;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+}
+
+.hero-stats {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.stat-label {
+    font-size: 0.875rem;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* ========== About Section ========== */
+.about {
+    background: var(--background);
+}
+
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 60px;
+    align-items: center;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.about-text strong {
+    color: var(--text-dark);
+}
+
+.about-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid var(--border);
+}
+
+.info-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.info-label {
+    font-size: 0.875rem;
+    color: var(--text-light);
+}
+
+.info-value {
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+.about-image {
+    display: flex;
+    justify-content: center;
+}
+
+.image-placeholder {
+    width: 280px;
+    height: 280px;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5rem;
+    font-weight: 700;
+    color: white;
+    box-shadow: var(--shadow-lg);
+}
+
+/* ========== Skills Section ========== */
+.skills {
+    background: var(--background-alt);
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.skill-category {
+    background: var(--background);
+    padding: 30px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.skill-category-title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--primary);
+}
+
+.skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-tag {
+    padding: 8px 16px;
+    background: var(--background-alt);
+    color: var(--text);
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+.skill-tag:hover {
+    background: var(--primary);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.skill-tag.highlight {
+    background: var(--primary);
+    color: white;
+}
+
+/* ========== Experience Section ========== */
+.experience {
+    background: var(--background);
+}
+
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--border);
+}
+
+.timeline-item {
+    position: relative;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+
+.timeline-item:last-child {
+    padding-bottom: 0;
+}
+
+.timeline-marker {
+    position: absolute;
+    left: -6px;
+    top: 0;
+    width: 15px;
+    height: 15px;
+    background: var(--primary);
+    border: 3px solid var(--background);
+    border-radius: 50%;
+    box-shadow: var(--shadow);
+}
+
+.timeline-content {
+    background: var(--background-alt);
+    padding: 25px 30px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: var(--transition);
+}
+
+.timeline-content:hover {
+    transform: translateX(5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.timeline-header {
+    margin-bottom: 8px;
+}
+
+.timeline-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 4px;
+}
+
+.timeline-company {
+    font-size: 1rem;
+    color: var(--primary);
+    font-weight: 500;
+}
+
+.timeline-date {
+    font-size: 0.875rem;
+    color: var(--text-light);
+    display: block;
+    margin-bottom: 12px;
+}
+
+.timeline-description {
+    font-size: 0.95rem;
+    color: var(--text);
+    line-height: 1.7;
+}
+
+/* ========== Projects Section ========== */
+.projects {
+    background: var(--background-alt);
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 30px;
+}
+
+.project-card {
+    background: var(--background);
+    padding: 35px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: var(--transition);
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.project-icon {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.project-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 8px;
+}
+
+.project-domain {
+    display: inline-block;
+    padding: 4px 12px;
+    background: rgba(37, 99, 235, 0.1);
+    color: var(--primary);
+    font-size: 0.8rem;
+    font-weight: 500;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+.project-description {
+    font-size: 0.95rem;
+    color: var(--text);
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.project-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: var(--text-light);
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+}
+
+/* ========== Awards Section ========== */
+.awards {
+    background: var(--background);
+}
+
+.awards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+.award-card {
+    background: linear-gradient(135deg, var(--background-alt) 0%, var(--background) 100%);
+    padding: 30px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    text-align: center;
+    transition: var(--transition);
+}
+
+.award-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+    border-color: var(--primary);
+}
+
+.award-icon {
+    font-size: 2.5rem;
+    margin-bottom: 16px;
+}
+
+.award-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+}
+
+.award-description {
+    font-size: 0.9rem;
+    color: var(--text-light);
+    line-height: 1.6;
+}
+
+/* ========== Education Section ========== */
+.education {
+    background: var(--background-alt);
+    padding: 80px 0;
+}
+
+.education-card {
+    max-width: 600px;
+    margin: 0 auto;
+    background: var(--background);
+    padding: 40px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.education-icon {
+    font-size: 3rem;
+}
+
+.education-degree {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 6px;
+}
+
+.education-school {
+    font-size: 1rem;
+    color: var(--primary);
+    margin-bottom: 4px;
+}
+
+.education-year {
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+/* ========== Contact Section ========== */
+.contact {
+    background: var(--secondary);
+    color: white;
+    text-align: center;
+}
+
+.contact .section-title {
+    color: white;
+}
+
+.contact .section-title::after {
+    background: white;
+}
+
+.contact-description {
+    font-size: 1.125rem;
+    color: rgba(255, 255, 255, 0.8);
+    max-width: 500px;
+    margin: 0 auto 40px;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 32px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.contact-item:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.contact-icon {
+    font-size: 1.25rem;
+}
+
+.contact-text {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.contact-languages h4 {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.6);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+}
+
+.language-tags {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.language-tag {
+    padding: 8px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+/* ========== Footer ========== */
+.footer {
+    background: #0a0f1a;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    padding: 30px 24px;
+    font-size: 0.9rem;
+}
+
+/* ========== Responsive Design ========== */
+@media (max-width: 992px) {
+    .about-content {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .about-info {
+        justify-content: center;
+    }
+
+    .about-image {
+        order: -1;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: var(--background);
+        flex-direction: column;
+        padding: 20px;
+        border-bottom: 1px solid var(--border);
+        transform: translateY(-150%);
+        opacity: 0;
+        transition: var(--transition);
+    }
+
+    .nav-menu.active {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    .nav-toggle {
+        display: flex;
+    }
+
+    .nav-toggle.active span:nth-child(1) {
+        transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .nav-toggle.active span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .nav-toggle.active span:nth-child(3) {
+        transform: rotate(-45deg) translate(7px, -6px);
+    }
+
+    .hero-name {
+        font-size: 2.75rem;
+    }
+
+    .hero-title {
+        font-size: 1.35rem;
+    }
+
+    .hero-stats {
+        gap: 30px;
+    }
+
+    .section {
+        padding: 70px 0;
+    }
+
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 40px;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .timeline::before {
+        left: 6px;
+    }
+
+    .timeline-item {
+        padding-left: 35px;
+    }
+
+    .timeline-marker {
+        left: 0;
+    }
+
+    .education-card {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero {
+        padding: 100px 20px 60px;
+    }
+
+    .hero-name {
+        font-size: 2.25rem;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+    }
+
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .image-placeholder {
+        width: 200px;
+        height: 200px;
+        font-size: 3.5rem;
+    }
+}
+// ========== Navigation Toggle ==========
+const navToggle = document.getElementById('nav-toggle');
+const navMenu = document.getElementById('nav-menu');
+
+navToggle.addEventListener('click', () => {
+    navToggle.classList.toggle('active');
+    navMenu.classList.toggle('active');
+});
+
+// Close menu when clicking a link
+document.querySelectorAll('.nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+        navToggle.classList.remove('active');
+        navMenu.classList.remove('active');
+    });
+});
+
+// ========== Navbar Scroll Effect ==========
+const navbar = document.getElementById('navbar');
+
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 50) {
+        navbar.classList.add('scrolled');
+    } else {
+        navbar.classList.remove('scrolled');
+    }
+});
+
+// ========== Active Navigation Link ==========
+const sections = document.querySelectorAll('section[id]');
+const navLinks = document.querySelectorAll('.nav-link');
+
+function highlightNavLink() {
+    const scrollY = window.pageYOffset;
+
+    sections.forEach(section => {
+        const sectionHeight = section.offsetHeight;
+        const sectionTop = section.offsetTop - 100;
+        const sectionId = section.getAttribute('id');
+
+        if (scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === `#${sectionId}`) {
+                    link.classList.add('active');
+                }
+            });
+        }
+    });
+}
+
+window.addEventListener('scroll', highlightNavLink);
+
+// ========== Animate on Scroll ==========
+const observerOptions = {
+    threshold: 0.1,
+    rootMargin: '0px 0px -50px 0px'
+};
+
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.style.opacity = '1';
+            entry.target.style.transform = 'translateY(0)';
+        }
+    });
+}, observerOptions);
+
+// Apply animation to elements
+document.querySelectorAll('.timeline-item, .project-card, .award-card, .skill-category').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(30px)';
+    el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    observer.observe(el);
+});
+
+// ========== Smooth Scroll for Safari ==========
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
